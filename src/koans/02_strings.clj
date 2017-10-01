@@ -2,6 +2,8 @@
   (:require [koan-engine.core :refer :all]
             [clojure.string :as string]))
 
+;; test
+
 (meditations
   "A string is nothing more than text surrounded by double quotes"
   (= "hello" "hello")
